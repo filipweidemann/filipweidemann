@@ -1,7 +1,7 @@
 ### 🌠 Welcome to my GitHub profile 🌠
 
 ## Introduction 👨‍💻
-I'm Filip & I am currently working at [lfda.de](https://lfda.de), doing web development.
+I'm Filip & I am currently working at [lfda.de](https://lfda.de) doing web development.
 I was also working at Dataport as a DevOps Engineer prior, where I learned a lot about managing applications on Kubernetes.
 
 Now I am trying to advocate for containers & especially Kubernetes whenever I get asked about anything 😁
