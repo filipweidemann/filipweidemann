@@ -6,6 +6,9 @@ I was also working at Dataport as a DevOps Engineer prior, where I learned a lot
 
 Now I am trying to advocate for containers & especially Kubernetes whenever I get asked about anything 😁
 
+## What is this profile picture?
+This is [Gin](https://detectiveconan.fandom.com/wiki/Gin) from my all-time favorite anime series "Detective Conan".
+
 ## What you can expect to see here ⏳
 Usually I'd love to try out new things and publisher everything here, however, the day only has a finite amount of hours, and if you start subtracting the time it takes to do the usual chores...
 yeah. 
